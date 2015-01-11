@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OceanStoreTestKitSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AcceptanceCheckerParameters>
+    <PipPath>.pip</PipPath>
+    <TempDirectory usecustom="false">C:\Users\Mrs Sutapa Sarkar\AppData\Local\Temp\</TempDirectory>
+    <LastTimeRun>
+      <Timestamp>07/04/2014 18:58:20 UTC5</Timestamp>
+      <SummaryResults>
+        <Completed>0</Completed>
+        <Failed>0</Failed>
+        <Pending>9</Pending>
+        <Skipped>0</Skipped>
+      </SummaryResults>
+    </LastTimeRun>
+  </AcceptanceCheckerParameters>
+  <SanityRunnerParameters>
+    <PetrelProjectPath>.pet</PetrelProjectPath>
+    <PetrelVersion>2013</PetrelVersion>
+    <LastTimeRun>
+      <Timestamp>Test cases have not been run yet.</Timestamp>
+      <SummaryResults>
+        <Completed>0</Completed>
+        <Failed>0</Failed>
+        <Pending>21</Pending>
+        <Skipped>0</Skipped>
+      </SummaryResults>
+    </LastTimeRun>
+  </SanityRunnerParameters>
+</OceanStoreTestKitSettings>

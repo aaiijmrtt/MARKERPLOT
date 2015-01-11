@@ -1,0 +1,12 @@
+c:\users\mrs sutapa sarkar\documents\visual studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\obj\Debug\3D Resistivity Plot.csprojResolveAssemblyReference.cache
+c:\users\mrs sutapa sarkar\documents\visual studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\obj\Debug\3D Resistivity Plot.csproj.GenerateResource.Cache
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\obj\Debug\_Marker_Plot.Form1.resources
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\obj\Debug\_Marker_Plot.Properties.Resources.resources
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\obj\Debug\_Marker_Plot.Form2.resources
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\obj\Debug\_Marker_Plot.Form3.resources
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\bin\Debug\3D Marker Plot.exe.config
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\bin\Debug\3D Marker Plot.exe
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\bin\Debug\3D Marker Plot.pdb
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\obj\Debug\3D Marker Plot.exe
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\obj\Debug\3D Marker Plot.pdb
+C:\Users\Mrs Sutapa Sarkar\Documents\Visual Studio 2012\Projects\3D Resistivity Plot\3D Resistivity Plot\bin\Debug\Marker Plot.exe.config
